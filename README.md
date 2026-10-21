@@ -11,6 +11,8 @@
 Развиваюсь в сторону TDD, проектирования архитектуры и понимания сетевых протоколов, а также
 планирую идти в сторону кибербезопасности.
 
+Продолжительное время работаю на Linux-based дистрибутивах: имею опыт с Ubuntu, Arch Linux, Void Linux и CachyOS. Сейчас использую Void Linux для локального файлового сервера, а CachyOS — на основной машине. Также есть практический опыт конфигурации `nginx` и `ufw`.
+
 ---
 
 ## Стек
@@ -20,9 +22,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-11%2F23%2F26-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Не имею крупных проектов, но имею локальный опыт разрабоки:
+Не имею крупных проектов, но имею локальный опыт разработки:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-basics-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### Backend & Frameworks
@@ -47,13 +49,21 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-005571?style=flat-square&logo=conan&logoColor=white)
 
+### Linux и инфраструктура
+
+- **Дистрибутивы:** Ubuntu, Arch Linux, Void Linux, CachyOS.
+- **Текущая конфигурация:** Void Linux — локальный файловый сервер; CachyOS — основная машина.
+- **Сервисы и сеть:** настройка `nginx`, правила файрвола через `ufw`.
+
+В целом замечательно дружу с терминалом, на постоянной основе используя neovim, zellij и прочее.
+
 ---
 
 ## Инженерные компетенции
 
 - **Сети:** модель OSI, стек TCP/IP, понимание принципов работы HTTP/JSON.
 - **Безопасность:** общие знания в криптографии, анализ уязвимостей ПО.
-- **Методологии:** Развиваюсь в сторону TDD, при этом также изучаю иные, будь то V-образную, итеративную, инкрементальную, восходящую и нисходящую способы разработки.
+- **Методологии:** развиваюсь в сторону TDD, при этом также изучаю иные подходы — V-образную, итеративную, инкрементальную, восходящую и нисходящую разработку.
 - **Архитектура и код:** уверенное ООП, принципы SOLID, паттерны проектирования, написание чистого кода.
 - **Параллелизм:** многопоточность, кооперативная и вытесняющая многозадачность, асинхронное программирование.
 
@@ -86,6 +96,6 @@
 ## Контакты
 
 - GitHub: [github.com/Les-S-niK](https://github.com/Les-S-niK)
-- Telegram: @Les_s_niK (https://t.me/Les_s_niK)
+- Telegram: [@Les_s_niK](https://t.me/Les_s_niK)
 
 ---
